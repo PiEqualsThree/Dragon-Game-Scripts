@@ -15,10 +15,9 @@ def main():
         rows = list(reader)
         with open('pet_data.txt', 'w') as txtFile:
             for row in rows:
-                faceDirectory = row[baseColumnIdx][:-2]
-                txtFile.write(f"{row[nameColumnIdx]}=>pet_data:\n")
+                txtFile.write(f"\"{row[nameColumnIdx]}\" => pet_data:\n")
                 txtFile.write(f"    Power := {row[powerColumnIdx]}\n")
-                txtFile.write(f"    PetName := {row[nameColumnIdx]}\n")
+                txtFile.write(f"    PetName := \"{row[nameColumnIdx]}\"\n")
                 txtFile.write(f"    PetMesh := PetAssets.{row[baseColumnIdx][:-2]}.{row[baseColumnIdx]}.{row[baseColumnIdx]}\n")
                 txtFile.write(f"    FaceTexture := PetAssets.{row[baseColumnIdx][:-2]}.{row[baseColumnIdx].lower()}_face\n")
                 txtFile.write(f"    ExpressionTexture := PetAssets.Expressions.{row[expressionColumnIdx]}\n")
