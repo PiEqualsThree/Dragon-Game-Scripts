@@ -1,100 +1,100 @@
-File Name,Pet Name,Rarity,Drop Percentage,Power Percentage,Expression,,,,Common Weights,Uncommon Weights,Rare Weights,Epic Weights,Legendary Weights,Mythic Weights
-Diamond_1,Prism,Rare,33,8,Angry,,,,150,2,8,11,17,25
-Diamond_2,Spark,Uncommon,101,2,Confused,,,,150,2,8,11,17,25
-Diamond_3,Glimmer,Epic,165,11,Puppy_Eyes,,,,150,2,8,11,17,25
-Earth_1,Terra,Common,86,5,Unibrow,,,,150,2,8,11,17,25
-Earth_2,Boulder,Rare,119,8,Gemstone,,,,150,2,8,11,17,25
-Earth_3,Flint,Mythic,512,25,Mustage,,,,150,2,8,11,17,25
-Fire_1,Blaze,Epic,45,11,Cry,,,,150,2,8,11,17,25
-Fire_2,Ember,Legendary,190,17,Lightning,,,,150,2,8,11,17,25
-Fire_3,Scorch,Mythic,735,25,Angry,,,,150,2,8,11,17,25
-Galaxy_1,Nebula,Common,52,5,Gemstone,,,,150,2,8,11,17,25
-Galaxy_2,Orion,Rare,100,8,Serious,,,,150,2,8,11,17,
-Galaxy_3,Astra,Mythic,847,25,Anime,,,,150,2,8,11,17,
-Gemstone_1,Ruby,Uncommon,24,2,Mustage,,,,150,2,8,11,17,
-Gemstone_2,Sapphire,Rare,133,8,Smile,,,,150,2,8,11,17,
-Gemstone_3,Topaz,Legendary,222,17,Cry,,,,150,2,8,11,17,
-Gold_1,Goldy,Epic,39,11,Anime,,,,150,2,8,11,17,
-Gold_2,Sol,Mythic,913,25,Angry,,,,,2,8,11,17,
-Gold_3,Dazzle,Legendary,84,17,Confused,,,,,,8,11,,
-Ice_1,Frosty,Uncommon,88,2,Angry,,,,,,8,11,,
-Ice_2,Glacier,Common,79,5,Confused,,,,,,8,,,
-Ice_3,Shiver,Epic,78,11,Cry,,,,,,,,,
-Magma_1,Glowey,Rare,127,8,Frozen,,,,,,,,,
-Magma_2,Volcan,Legendary,231,17,Gemstone,,,,,,,,,
-Magma_3,Ember,Mythic,730,25,Lightning,,,,,,,,,
-Plant_1,Ivy,Common,88,5,Mustage,,,,,,,,,
-Plant_2,Moss,Uncommon,76,2,Puppy_Eyes,,,,,,,,,
-Plant_3,Fern,Epic,130,11,Serious,,,,,,,,,
-RGB_1,Pixel,Rare,109,8,Smile,,,,,,,,,
-RGB_2,Neon,Epic,55,11,Smushed,,,,,,,,,
-RGB_3,Rainbow,Mythic,737,25,Troll,,,,,,,,,
-Water_1,Wave,Uncommon,74,2,Unibrow,,,,,,,,,
-Water_2,Tide,Legendary,281,17,Angry,,,,,,,,,
-Water_3,Ripple,Common,41,5,Anime,,,,,,,,,
-Diamond_1,Brilliance,Common,62,5,Troll,,,,,,,,,
-Diamond_2,Gleam,Rare,140,8,Smushed,,,,,,,,,
-Diamond_3,Radiance,Legendary,215,17,Serious,,,,,,,,,
-Earth_1,Quake,Uncommon,17,2,Puppy_Eyes,,,,,,,,,
-Earth_2,Geo,Epic,17,11,Frozen,,,,,,,,,
-Earth_3,Bedrock,Legendary,160,17,Mustage,,,,,,,,,
-Fire_1,Inferno,Common,80,5,Lightning,,,,,,,,,
-Fire_2,Pyro,Rare,110,8,Unibrow,,,,,,,,,
-Fire_3,Sizzle,Mythic,586,25,Anime,,,,,,,,,
-Galaxy_1,Cosmic,Uncommon,57,2,Cry,,,,,,,,,
-Galaxy_2,Celestial,Epic,89,11,Gemstone,,,,,,,,,
-Galaxy_3,Pulsar,Legendary,117,17,Angry,,,,,,,,,
-Gemstone_1,Amethyst,Rare,107,8,Smile,,,,,,,,,
-Gemstone_2,Onyx,Uncommon,99,2,Confused,,,,,,,,,
-Gemstone_3,Jade,Epic,25,11,Mustage,,,,,,,,,
-Gold_1,Aureus,Common,52,5,Cry,,,,,,,,,
-Gold_2,Glint,Rare,108,8,Gemstone,,,,,,,,,
-Gold_3,Luster,Mythic,393,25,Unibrow,,,,,,,,,
-Ice_1,Tundra,Epic,93,11,Angry,,,,,,,,,
-Ice_2,Chiller,Uncommon,62,2,Puppy_Eyes,,,,,,,,,
-Ice_3,Icicle,Legendary,297,17,Serious,,,,,,,,,
-Magma_1,Cinder,Common,100,5,Anime,,,,,,,,,
-Magma_2,Sear,Rare,27,8,Serious,,,,,,,,,
-Magma_3,Smolder,Epic,50,11,Anime,,,,,,,,,
-Plant_1,Vine,Uncommon,97,2,Mustage,,,,,,,,,
-Plant_2,Thorne,Legendary,184,17,Frozen,,,,,,,,,
-Plant_3,Bloom,Rare,47,8,Unibrow,,,,,,,,,
-RGB_1,Hologram,Common,79,5,Cry,,,,,,,,,
-RGB_2,Prism,Epic,179,11,Puppy_Eyes,,,,,,,,,
-RGB_3,Spectrum,Legendary,72,17,Lightning,,,,,,,,,
-Water_1,Surge,Rare,99,8,Smushed,,,,,,,,,
-Water_2,Cascade,Epic,15,11,Troll,,,,,,,,,
-Water_3,Torrent,Uncommon,78,2,Angry,,,,,,,,,
-Diamond_1,Luminara,Common,52,5,Confused,,,,,,,,,
-Diamond_2,Halo,Rare,39,8,Serious,,,,,,,,,
-Diamond_3,Radiant,Epic,170,11,Cry,,,,,,,,,
-Earth_1,Mesa,Uncommon,19,2,Puppy_Eyes,,,,,,,,,
-Earth_2,Crag,Rare,14,8,Gemstone,,,,,,,,,
-Earth_3,Tremor,Legendary,206,17,Unibrow,,,,,,,,,
-Fire_1,Brimfire,Common,61,5,Smile,,,,,,,,,
-Fire_2,Ignis,Epic,173,11,Angry,,,,,,,,,
-Fire_3,Wildspark,Mythic,674,25,Mustage,,,,,,,,,
-Galaxy_1,Astralis,Rare,45,8,Anime,,,,,,,,,
-Galaxy_2,Zenith,Legendary,83,17,Lightning,,,,,,,,,
-Galaxy_3,Voidflare,Uncommon,49,2,Frozen,,,,,,,,,
-Gemstone_1,Tourmaline,Common,64,5,Mustage,,,,,,,,,
-Gemstone_2,Zircona,Rare,43,8,Angry,,,,,,,,,
-Gemstone_3,Garnetis,Epic,197,11,Anime,,,,,,,,,
-Gold_1,Gildra,Rare,134,8,Cry,,,,,,,,,
-Gold_2,Sunburst,Uncommon,49,2,Serious,,,,,,,,,
-Gold_3,Aurion,Legendary,180,17,Puppy_Eyes,,,,,,,,,
-Ice_1,Cryo,Epic,49,11,Smile,,,,,,,,,
-Ice_2,Everfrost,Legendary,289,17,Smushed,,,,,,,,,
-Ice_3,Frostfang,Common,60,5,Troll,,,,,,,,,
-Magma_1,Obsidian,Rare,94,8,Unibrow,,,,,,,,,
-Magma_2,Embercore,Epic,194,11,Lightning,,,,,,,,,
-Magma_3,Pyronox,Uncommon,61,2,Gemstone,,,,,,,,,
-Plant_1,Verdalis,Common,72,5,Serious,,,,,,,,,
-Plant_2,Sagebloom,Rare,135,8,Cry,,,,,,,,,
-Plant_3,Thornroot,Legendary,165,17,Puppy_Eyes,,,,,,,,,
-RGB_1,Chromis,Uncommon,72,2,Mustage,,,,,,,,,
-RGB_2,Fluora,Epic,191,11,Frozen,,,,,,,,,
-RGB_3,Iridion,Common,79,5,Angry,,,,,,,,,
-Water_1,Abyssis,Uncommon,40,2,Anime,,,,,,,,,
-Water_2,Hydron,Legendary,109,17,Smile,,,,,,,,,
-Water_3,Riptide,Mythic,631,25,Troll,,,,,,,,,
+File Name,Pet Name,Rarity,Drop Percentage,Power Percentage,Expression,Odds
+Diamond_1,Prism,Common,10,8,Angry,45
+Diamond_2,Spark,Uncommon,14,2,Confused,"1,050"
+Diamond_3,Glimmer,Rare,18,11,Puppy_Eyes,"17,500"
+Earth_1,Terra,Common,4,5,Unibrow,120
+Earth_2,Boulder,Common,12,8,Gemstone,40
+Earth_3,Flint,Mythic,309,25,Mustage,30.5 M
+Fire_1,Blaze,Common,13,11,Cry,35
+Fire_2,Ember,Uncommon,19,17,Lightning,765
+Fire_3,Scorch,Rare,76,25,Angry,"4,050"
+Galaxy_1,Nebula,Common,11,5,Gemstone,40
+Galaxy_2,Orion,Rare,28,8,Serious,"11,000"
+Galaxy_3,Astra,Mythic,395,25,Anime,23.0 M
+Gemstone_1,Ruby,Uncommon,22,2,Mustage,660
+Gemstone_2,Sapphire,Rare,9,8,Smile,"35,500"
+Gemstone_3,Topaz,Legendary,146,17,Cry,2.1 M
+Gold_1,Goldy,Epic,61,11,Anime,"120,000"
+Gold_2,Sol,Mythic,532,25,Angry,19.0 M
+Gold_3,Dazzle,Legendary,90,17,Confused,3.7 M
+Ice_1,Frosty,Common,10,2,Angry,45
+Ice_2,Glacier,Uncommon,29,5,Confused,510
+Ice_3,Shiver,Epic,71,11,Cry,"100,000"
+Magma_1,Glowey,Rare,46,8,Frozen,"6,600"
+Magma_2,Volcan,Legendary,315,17,Gemstone,"920,000"
+Magma_3,Ember,Mythic,219,25,Lightning,46.0 M
+Plant_1,Ivy,Common,9,5,Mustage,50
+Plant_2,Moss,Uncommon,31,2,Puppy_Eyes,455
+Plant_3,Fern,Epic,72,11,Serious,"100,000"
+RGB_1,Pixel,Rare,13,8,Smile,"24,500"
+RGB_2,Neon,Epic,72,11,Smushed,"100,000"
+RGB_3,Rainbow,Mythic,105,25,Troll,99.5 M
+Water_1,Wave,Common,9,2,Unibrow,50
+Water_2,Tide,Rare,19,17,Angry,"16,500"
+Water_3,Ripple,Epic,218,5,Anime,"34,000"
+Diamond_1,Brilliance,Common,5,5,Troll,95
+Diamond_2,Gleam,Rare,65,8,Smushed,"4,550"
+Diamond_3,Radiance,Legendary,247,17,Serious,1.2 M
+Earth_1,Quake,Common,11,2,Puppy_Eyes,40
+Earth_2,Geo,Uncommon,26,11,Frozen,560
+Earth_3,Bedrock,Legendary,158,17,Mustage,2.0 M
+Fire_1,Inferno,Common,9,5,Lightning,50
+Fire_2,Sizze,Rare,7,8,Unibrow,"45,500"
+Fire_3,Pyro,Mythic,225,25,Anime,46.0 M
+Galaxy_1,Cosmic,Uncommon,12,2,Cry,"1,200"
+Galaxy_2,Celestial,Epic,21,11,Gemstone,"355,000"
+Galaxy_3,Pulsar,Legendary,312,17,Angry,1.1 M
+Gemstone_1,Amethyst,Rare,11,8,Smile,"29,000"
+Gemstone_2,Onyx,Uncommon,15,2,Confused,965
+Gemstone_3,Jade,Epic,100,11,Mustage,"72,500"
+Gold_1,Aureus,Common,1,5,Cry,480
+Gold_2,Glint,Rare,68,8,Gemstone,"4,550"
+Gold_3,Luster,Mythic,334,25,Unibrow,30.5 M
+Ice_1,Tundra,Epic,142,11,Angry,"49,500"
+Ice_2,Chiller,Uncommon,10,2,Puppy_Eyes,"1,450"
+Ice_3,Icicle,Legendary,124,17,Serious,2.6 M
+Magma_1,Cinder,Common,11,5,Anime,40
+Magma_2,Sear,Common,8,8,Serious,60
+Magma_3,Smolder,Epic,145,11,Anime,"49,500"
+Plant_1,Vine,Common,7,2,Mustage,65
+Plant_2,Thorne,Common,10,17,Frozen,45
+Plant_3,Bloom,Rare,30,8,Unibrow,"10,500"
+RGB_1,Hologram,Common,9,5,Cry,50
+RGB_2,Prism,Epic,90,11,Puppy_Eyes,"80,000"
+RGB_3,Spectrum,Legendary,425,17,Lightning,"765,000"
+Water_1,Surge,Common,13,8,Smushed,35
+Water_2,Cascade,Uncommon,8,11,Troll,"1,850"
+Water_3,Torrent,Rare,78,2,Angry,"4,050"
+Diamond_1,Luminara,Common,9,5,Confused,50
+Diamond_2,Halo,Rare,43,8,Serious,"7,150"
+Diamond_3,Radiant,Epic,39,11,Cry,"190,000"
+Earth_1,Mesa,Uncommon,20,2,Puppy_Eyes,710
+Earth_2,Crag,Common,2,8,Gemstone,240
+Earth_3,Tremor,Epic,96,17,Unibrow,"76,500"
+Fire_1,Brimfire,Common,11,5,Smile,40
+Fire_2,Ignis,Epic,161,11,Angry,"45,500"
+Fire_3,Wildspark,Mythic,476,25,Mustage,19.0 M
+Galaxy_1,Astralis,Common,5,8,Anime,95
+Galaxy_2,Zenith,Uncommon,20,17,Lightning,710
+Galaxy_3,Voidflare,Rare,25,2,Frozen,"12,500"
+Gemstone_1,Tourmaline,Common,10,5,Mustage,45
+Gemstone_2,Zircona,Uncommon,13,8,Angry,"1,100"
+Gemstone_3,Garnetis,Epic,95,11,Anime,"76,500"
+Gold_1,Gildra,Common,11,8,Cry,40
+Gold_2,Sunburst,Rare,60,2,Serious,"5,100"
+Gold_3,Aurion,Legendary,61,17,Puppy_Eyes,5.4 M
+Ice_1,Cryo,Epic,249,11,Smile,"26,500"
+Ice_2,Everfrost,Legendary,311,17,Smushed,1.1 M
+Ice_3,Frostfang,Common,15,5,Troll,30
+Magma_1,Obsidian,Rare,39,8,Unibrow,"8,150"
+Magma_2,Embercore,Epic,58,11,Lightning,"125,000"
+Magma_3,Pyronox,Uncommon,7,2,Gemstone,"2,100"
+Plant_1,Verdalis,Common,12,5,Serious,40
+Plant_2,Sagebloom,Uncommon,5,8,Cry,"3,000"
+Plant_3,Thornroot,Epic,223,17,Puppy_Eyes,"30,500"
+RGB_1,Chromis,Uncommon,17,2,Mustage,865
+RGB_2,Fluora,Epic,55,11,Frozen,"130,000"
+RGB_3,Iridion,Common,1,5,Angry,480
+Water_1,Abyssis,Common,3,2,Anime,160
+Water_2,Hydron,Uncommon,29,17,Smile,510
+Water_3,Riptide,Mythic,162,25,Troll,65.0 M
